@@ -14,9 +14,6 @@ This project demonstrates the use of **Logistic Regression** to classify breast 
 6. [Predictions and Evaluation](#predictions-and-evaluation)
 7. [k-Fold Cross Validation](#k-fold-cross-validation)
 8. [Decision Boundary Visualization](#decision-boundary-visualization)
-9. [Usage](#usage)
-10. [Results](#results)
-
 ---
 
 ## Project Overview
